@@ -1,0 +1,9 @@
+numpy==2.0.0
+pandas
+matplotlib
+spacy
+gensim
+streamlit
+nltk
+plotly
+google-cloud-storage
